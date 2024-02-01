@@ -1,0 +1,15 @@
+install node modules first for both backend and frontend projects
+
+to run Qno 3--> 
+1. navigate to the directory and run "npm i"
+2. then run "node server.js" and server will start running on port 3001
+
+
+then navigate to signup-form
+1. run npm i
+2. either run development env by running "npm run dev" or 
+3. run npm run build to create a build and then run "npm start"
+ note the frontend is already built, you can install packages and run "npm start" directly
+
+
+both projects are build with latest node verssion if you face any issues try to update the node version
